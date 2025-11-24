@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.shopee.com.br	TRUE	/	FALSE	1999999999	REC_T_ID	9eac8c91-c96b-11f0-a2ab-92ddcf8db7b4
+.shopee.com.br	TRUE	/	FALSE	1999999999	SPC_R_T_ID	0xipqWQyJ5C+cX8ikiXPhiAoaMK1eZB2w3RQv4FWahTZ+tFa1y/wFqogmkMIff3ghdeSrCsFk7bAfn2Zz31Pi0GphlC696Pkr5RLJJmbKGvz8udZ7FRwqJ9Doz5WhUorxqiI715R7OQEGP8+kn/BaIX0S6vLiGD9pjuCVeTvnjw=
+.shopee.com.br	TRUE	/	FALSE	1999999999	SPC_R_T_IV	Zkw2eWprRU9NVzU3QmNMMw==
+.shopee.com.br	TRUE	/	FALSE	1999999999	SPC_T_ID	0xipqWQyJ5C+cX8ikiXPhiAoaMK1eZB2w3RQv4FWahTZ+tFa1y/wFqogmkMIff3ghdeSrCsFk7bAfn2Zz31Pi0GphlC696Pkr5RLJJmbKGvz8udZ7FRwqJ9Doz5WhUorxqiI715R7OQEGP8+kn/BaIX0S6vLiGD9pjuCVeTvnjw=
+.shopee.com.br	TRUE	/	FALSE	1999999999	SPC_T_IV	Zkw2eWprRU9NVzU3QmNMMw==
+.shopee.com.br	TRUE	/	FALSE	1999999999	SPC_SI	EX8daQAAAAB5RmlyMno1N9lyRwEAAAAAMWJROGNOUWg=
+shopee.com.br	TRUE	/	FALSE	1999999999	SPC_SEC_SI	v1-dkl0OVhkSHc4U2tkWXpHb0s6BVK/ocmP3jX9BvUJHk3gyNdbZoxwp7jiATIuNg2ZDOhuoDCa5VvShYzSIuJOZDR3gimCO5OQbP++9niQlv4=
+.shopee.com.br	TRUE	/	FALSE	1999999999	SPC_F	hzTmkwEWLmh6E38QCVUElEHuppmbxp89
+
